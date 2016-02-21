@@ -1,0 +1,9 @@
+**/*.log
+node_modules
+tmp
+.DS_Store
+.idea
+.npmrc
+/*.js
+dist
+!webpack.config.js
